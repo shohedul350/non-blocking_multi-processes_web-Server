@@ -1,0 +1,18 @@
+{
+  "name": "non-blocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nonblocking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon nonblocking.js"
+  },
+  "author": "shohedul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
